@@ -16,4 +16,5 @@
   * [Lesson 2:Problem Set](intro-to-computer-science/lesson-2problem-set.md)
   * [Lesson 4:Q&A](intro-to-computer-science/lesson-4qanda.md)
 * [HTML and CSS Syntax](html-and-css-syntax.md)
+  * [Lesson 1: HTML Syntax](html-and-css-syntax/lesson-1-html-syntax.md)
 
