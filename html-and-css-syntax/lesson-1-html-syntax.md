@@ -12,3 +12,5 @@ Image tag do not have closing tag.
 ![](/assets/HTML Syntax_3.png)
 
 Span tag is part of line.
+
+span tag 是會連在一起？
