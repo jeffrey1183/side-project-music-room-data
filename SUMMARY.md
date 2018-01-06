@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [產品規劃](chan-pin-gui-hua.md)
+* [HTML and CSS Syntax](html-and-css-syntax.md)
+  * [Lesson 1: HTML Syntax](html-and-css-syntax/lesson-1-html-syntax.md)
 * [Full Stack Foundations](hou-duan-cheng-shi-xue-xi/full-stack-foundations.md)
 * [Web Audio](hou-duan-cheng-shi-xue-xi/web-audio.md)
   * [參考資料](hou-duan-cheng-shi-xue-xi/web-audio/can-kao-zi-liao.md)
@@ -15,6 +17,4 @@
   * [Lesson 1: How to Get Started](intro-to-computer-science/lesson-1-how-to-get-started.md)
   * [Lesson 2:Problem Set](intro-to-computer-science/lesson-2problem-set.md)
   * [Lesson 4:Q&A](intro-to-computer-science/lesson-4qanda.md)
-* [HTML and CSS Syntax](html-and-css-syntax.md)
-  * [Lesson 1: HTML Syntax](html-and-css-syntax/lesson-1-html-syntax.md)
 
