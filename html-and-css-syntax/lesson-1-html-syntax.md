@@ -19,6 +19,9 @@ Image tag do not have closing tag.
 > 但有些 tag 沒有 closing tag，像 image tag
 ![](/assets/HTML Syntax_3.png)
 
+# Quiz: Make Your First Element
+
+
 Span is like a line of text.
 > span 跟 div tag 很像，差別在瀏覽器會將 [span 標籤](http://www.wibibi.com/info.php?tid=113)包起來的元素視為一行。
 

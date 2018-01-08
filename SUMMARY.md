@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Product Planning](chan-pin-gui-hua.md)
+* [Project Planning](chan-pin-gui-hua.md)
 * [HTML and CSS Syntax](html-and-css-syntax.md)
   * [Lesson 1: HTML Syntax](html-and-css-syntax/lesson-1-html-syntax.md)
 * [Full Stack Foundations](hou-duan-cheng-shi-xue-xi/full-stack-foundations.md)
