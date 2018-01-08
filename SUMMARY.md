@@ -4,6 +4,8 @@
 * [Project Planning](chan-pin-gui-hua.md)
 * [HTML and CSS Syntax](html-and-css-syntax.md)
   * [Lesson 1: HTML Syntax](html-and-css-syntax/lesson-1-html-syntax.md)
+    * [HTML Structure Part I](html-and-css-syntax/lesson-1-html-syntax/html-structure-part-i.md)
+    * [Environments](html-and-css-syntax/lesson-1-html-syntax/environments.md)
 * [Full Stack Foundations](hou-duan-cheng-shi-xue-xi/full-stack-foundations.md)
 * [Web Audio](hou-duan-cheng-shi-xue-xi/web-audio.md)
   * [參考資料](hou-duan-cheng-shi-xue-xi/web-audio/can-kao-zi-liao.md)
