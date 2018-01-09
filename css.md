@@ -1,5 +1,4 @@
-#CSS Selectors
-
+# CSS Selectors
 
 ## All HTML Elements are Selectors
 
@@ -248,5 +247,87 @@ z-index:2;}
 .right{float:right;
 }
 ```
+
+# 設定顏色的三種寫法 - color property
+
+1. RGB Values:0~255，255顏色最亮
+
+```css
+h1 {
+color: rgb(102,153,0);
+}
+```
+
+1. hexadecimal numbers: 00~ff，ff最亮
+
+```css
+h1 {
+color:#9933CC;
+}
+```
+
+1. Color names: [http://www.crockford.com/wrrrld/color.html](http://www.crockford.com/wrrrld/color.html)
+
+```css
+h1 {
+color:aqua;
+}
+```
+
+# 設定字體
+
+[Google Fonts](https://www.google.com/fonts)\(over 600 more web fonts\)
+
+```css
+font-family: "Arial, Helvetica", sans-serif;
+font-family: "Times New Roman", Times, serif;
+font-family: "Courier New", Courier, monospace;
+```
+
+# 字體大小的單位
+
+pixels, ems, or rems
+
+* 一般就是px
+
+The font-size unit em is a relative measure: one em is equal to the default font size on whatever screen the user is using. That makes it great for smartphone screens, since it doesn't try to tell the smartphone exactly how big to make a font: it just says, "Hey, 1em is the font size that you normally use, so 2em is twice as big and 0.5em is half that size!"
+
+# 跟 background 相關的 property
+
+* background-color
+* background-image
+* padding:調整border和content的距離
+* margin:border以外的區域
+* 使用margin-right: auto加上 margin-left: auto：可以把對象置中
+
+# 講解margin,border,padding,text之間的關係
+
+![](https://lh6.googleusercontent.com/YVlKknN73YoxijIlCxVdXQREbFvqENhuEsHe7H_HeaayLTs8yhClJ9ad2DuC3sCNo_8hhZoCp77VlC0De2J7QbNusW2iYyNx8_6tggaUjqLsHP8K115wpv1ubCr67JncN9gJS7Mr)
+
+text-transform 屬性，可以控制文本的大小寫。
+
+* 相關說明：[http://www.w3school.com.cn/cssref/pr\_text\_text-transform.asp](http://www.w3school.com.cn/cssref/pr_text_text-transform.asp)
+
+## 設定background圖片
+
+```css
+.example{
+background-image:url('https://goo.gl/04j7Nn');
+}
+```
+
+## position, display, float - CSS Properties
+
+The CSS properties display, position, and float can be used to control where an element sits on the page
+
+* properties: [display](http://zh-tw.learnlayout.com/display.html)，[position](http://zh-tw.learnlayout.com/position.html) and [float](http://www.1keydata.com/css-tutorial/tw/float.php).
+
+```css
+position:fixed;
+top:30px;
+right:5px;
+float:left;
+```
+
 
 
