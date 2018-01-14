@@ -34,4 +34,5 @@
 * [Others](others.md)
   * [The Wide and Long Data Format](others/the-wide-and-long-data-format.md)
 * [What is npm](what-is-npm.md)
+* [Git](git.md)
 
