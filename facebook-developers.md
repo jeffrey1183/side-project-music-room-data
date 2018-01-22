@@ -1,0 +1,1 @@
+[應用程式設定](https://developers.facebook.com/apps/)
