@@ -17,5 +17,10 @@ Sometimes the world gives us a natural primary key for a table. For instance, yo
 ![](/assets/unique_3.png)
 
 For instance in the US, there are several states with a city named Springfield. There's Springfield Massachusetts, Springfield Illinois, and a whole bunch of others. So It's obvious that the name of Springfield isn't unique by itself. Now you might tempted to think that city plus state is unique, but it turns out that's not true either.
+>以美國的 Springfield 這個地名為例，就有一大堆，所以他不是 unique 的。
 
 ![](/assets/unique_4.png)
+
+In the state of Wisconsin, there are five different towns named Springfield. And three in the New Jersey,and two in Texas. And that's why most countries use postal codes or what we call zip codes in the US. Just like saying somebody is player number three or user 13332, instead of using their name to guarantee its uniqueness.
+>光是在 Wisconsin 州就有一堆 Springfield， 3個在 New Jersey， 2個在 Texas ，這就是為何要用郵遞區號的原因，就像我們會幫用戶設定一個 ID 而不是用他的角色名，是為了確保唯一值。
+
