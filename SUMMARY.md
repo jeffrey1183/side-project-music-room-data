@@ -52,5 +52,5 @@
     * [10.Favorite Animals](intro-to-relational-databases/lesson-1data-and-tables/10favorite-animals.md)
     * [11.Related Tables](intro-to-relational-databases/lesson-1data-and-tables/11related-tables.md)
     * [12.Uniqueness And Keys](intro-to-relational-databases/lesson-1data-and-tables/12uniqueness-and-keys.md)
-* 13. Joining Tables
+    * [13. Joining Tables](j.md)
 
