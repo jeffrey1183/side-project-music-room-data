@@ -14,7 +14,7 @@ Test changes to code without losing the original.
 Revert back to old versions of code.
 
 
-## Git clone
+## Git Clone
 Download the repository on your own computer
 
 
