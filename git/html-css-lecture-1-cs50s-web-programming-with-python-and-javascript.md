@@ -17,6 +17,16 @@ Revert back to old versions of code.
 ## Git Clone
 Download the repository on your own computer
 
+## Touch
+Create a new file
+
+## atom .
+編輯一個簡單的 html 頁面
+
+#Git Add
+Tell the git what files I want to track. Next time I want to copy to repository. Add the files we want to commit next time.
+
+到 15:41
 
 #Github
 A website repositories on the internet.

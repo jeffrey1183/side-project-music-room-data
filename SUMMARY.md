@@ -2,6 +2,8 @@
 
 * [Introduction](README.md)
 * [Project Planning](chan-pin-gui-hua.md)
+* [Git](git.md)
+  * [HTML, CSS - Lecture 1 - CS50's Web Programming with Python and JavaScript ](git/html-css-lecture-1-cs50s-web-programming-with-python-and-javascript.md)
 * [HTML and CSS Syntax](html-and-css-syntax.md)
   * [Lesson 1: HTML Syntax](html-and-css-syntax/lesson-1-html-syntax.md)
     * [HTML Structure Part I](html-and-css-syntax/lesson-1-html-syntax/html-structure-part-i.md)
@@ -33,7 +35,6 @@
   * [JavaScript](javascript.md)
 * [Others](others.md)
   * [The Wide and Long Data Format](others/the-wide-and-long-data-format.md)
-* [What is npm](what-is-npm.md)
 * [Git](git.md)
   * [HTML, CSS - Lecture 1 - CS50's Web Programming with Python and JavaScript ](git/html-css-lecture-1-cs50s-web-programming-with-python-and-javascript.md)
 * [Facebook Developers](facebook-developers.md)
