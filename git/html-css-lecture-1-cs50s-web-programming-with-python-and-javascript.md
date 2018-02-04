@@ -44,6 +44,19 @@ Pull down the latest change from GitHub. In the tutorial, we remove a line of "H
 
 到 22:30
 
+#Error Statements
+
+fatal: pathspec 'Fig' did not match any files
+
+touch Fig 2.3_Printing a line of text with multiple statements.cpp
+> 會出現一堆檔案![](/assets/git_1.png)
+
+要使用 `rm` 把他們清光
+```rm Fig 2.3_Printing a line of text with multiple statements.cpp```
+
+
+
+
 #Github
 A website repositories on the internet.
 
