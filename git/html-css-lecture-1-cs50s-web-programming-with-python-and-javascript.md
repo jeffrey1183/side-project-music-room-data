@@ -38,9 +38,11 @@ What's going on inside of your repository.
 How to send those changes back to Github. That's called the push! We've made changes to the repository adding hello.html on our computer locally, but that isn't yet reflected on Github.
 
 #Git Pull
-You want to download the latest version of that repository.   
+Pull down the latest change from GitHub. In the tutorial, we remove a line of "Hello World" and increase a line of "Hello World!Hello Again!" so there will be a 1 insertion(+), 1 deletion(-).
 
-到 21:01
+#Merge Conflict
+
+到 22:30
 
 #Github
 A website repositories on the internet.
