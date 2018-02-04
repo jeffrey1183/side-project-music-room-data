@@ -19,14 +19,28 @@ Download the repository on your own computer
 
 ## Touch
 Create a new file
+* touch `<filename>`
 
 ## atom .
 編輯一個簡單的 html 頁面
 
 #Git Add
 Tell the git what files I want to track. Next time I want to copy to repository. Add the files we want to commit next time.
+* git add `<filename>`
 
-到 15:41
+#Git Commit
+* git commit -m "message"
+
+#Git Status
+What's going on inside of your repository.
+
+#Git Push
+How to send those changes back to Github. That's called the push! We've made changes to the repository adding hello.html on our computer locally, but that isn't yet reflected on Github.
+
+#Git Pull
+You want to download the latest version of that repository.   
+
+到 21:01
 
 #Github
 A website repositories on the internet.
