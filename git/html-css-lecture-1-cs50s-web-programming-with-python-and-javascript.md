@@ -41,6 +41,7 @@ How to send those changes back to Github. That's called the push! We've made cha
 Pull down the latest change from GitHub. In the tutorial, we remove a line of "Hello World" and increase a line of "Hello World!Hello Again!" so there will be a 1 insertion(+), 1 deletion(-).
 
 #Merge Conflict
+先修改自己的檔案然後 git add 追蹤，然後 commit 了。結果發現 repository 有新版本。
 
 到 22:30
 
