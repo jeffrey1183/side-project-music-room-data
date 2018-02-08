@@ -43,6 +43,8 @@ Pull down the latest change from GitHub. In the tutorial, we remove a line of "H
 #Merge Conflict
 先修改自己的檔案然後 git add 追蹤，然後 commit 了。結果發現 repository 有新版本。
 
+![](/assets/git_2.png)
+
 到 22:30
 
 #Error Statements
