@@ -41,11 +41,26 @@ How to send those changes back to Github. That's called the push! We've made cha
 Pull down the latest change from GitHub. In the tutorial, we remove a line of "Hello World" and increase a line of "Hello World!Hello Again!" so there will be a 1 insertion(+), 1 deletion(-).
 
 #Merge Conflict
-先修改自己的檔案然後 git add 追蹤，然後 commit 了。結果發現 repository 有新版本。
+先修改自己的檔案然後 git add 追蹤，然後 commit 了。git pull 的時候會發現 repository 有新版本，你的程式碼會標出不同顏色。
 
 ![](/assets/git_2.png)
 
-到 22:30
+#Git Log
+Show you the commit history.
+
+![](/assets/git_3.png)
+
+#Git Reset
+在 28:03 的地方
+
+#git commit -am
+看來是等同於 git add 加上 git commit -m 
+[參考資料](https://gogojimmy.net/2012/02/29/git-scenario/)
+29:40
+
+Where the a stands for add to both files to the staging area and commit them all together in one command.
+
+到 29:58
 
 #Error Statements
 
