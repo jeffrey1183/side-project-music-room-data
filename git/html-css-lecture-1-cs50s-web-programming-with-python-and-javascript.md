@@ -13,6 +13,9 @@ Test changes to code without losing the original.
 
 Revert back to old versions of code.
 
+## What Happens to The Remote Repository?
+The answer is the changes I make to my computer, to my version of the repository on my computer. Never affect what's going on online unless I try to push those changes to Github.
+
 
 ## Git Clone
 Download the repository on your own computer
@@ -51,16 +54,25 @@ Show you the commit history.
 ![](/assets/git_3.png)
 
 #Git Reset
-在 28:03 的地方
+28:03
+
+Use `git log` to see the git hash, you just need a part of commit hash, is usually sufficient to be able to identify it.
+
+`git reset --hard 3ba710f26d1`
+
+And the repository won't affect by your reset unless you git push.
 
 #git commit -am
 看來是等同於 git add 加上 git commit -m 
 [參考資料](https://gogojimmy.net/2012/02/29/git-scenario/)
 29:40
 
-Where the a stands for add to both files to the staging area and commit them all together in one command.
+Before the git commit, you have to git add a file to the staging area and telling it these are files that I want to track.
 
-到 29:58
+#git reflog
+Git tracks of all the different snapshots,the `git relog` command is just the log of different references.
+
+到 32:22
 
 #Error Statements
 
