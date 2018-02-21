@@ -13,6 +13,7 @@
     * [Browsers](html-and-css-syntax/lesson-1-html-syntax/browsers.md)
     * [Workflow](html-and-css-syntax/lesson-1-html-syntax/workflow.md)
     * [Family Trees](html-and-css-syntax/lesson-1-html-syntax/family-trees.md)
+    * [Quiz](html-and-css-syntax/lesson-1-html-syntax/quiz.md)
 * [Full Stack Foundations](hou-duan-cheng-shi-xue-xi/full-stack-foundations.md)
 * [Web Audio](hou-duan-cheng-shi-xue-xi/web-audio.md)
   * [參考資料](hou-duan-cheng-shi-xue-xi/web-audio/can-kao-zi-liao.md)
