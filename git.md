@@ -1,3 +1,9 @@
+#CS50 的課程
+* [Lecture 0](https://www.youtube.com/watch?v=1u2qu-EmIRc)
+* [Lecture 1 Youtube 連結](https://www.youtube.com/watch?v=qlq6DwRCJZU)
+
+
+
 [git sum](https://git-scm.com/book/zh-tw/v1/開始-關於版本控制)
 
 #名詞解釋
@@ -6,12 +12,6 @@
 
 
 
-
-目前有的問題：
-* 為何無法建立 repository 的問題
- * https://help.github.com/articles/changing-a-remote-s-url/
- * https://git-scm.com/book/zh-tw/v1/Git-分支-遠端分支
-* 我要在兩台電腦用同一個帳號下，更新 repository
 
 What is Gitignore
 * [參考文章](https://ithelp.ithome.com.tw/articles/10138831)

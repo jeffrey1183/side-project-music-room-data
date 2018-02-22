@@ -1,6 +1,4 @@
-#CS50 的課程
-* [Lecture 0](https://www.youtube.com/watch?v=1u2qu-EmIRc)
-* [Lecture 1 Youtube 連結](https://www.youtube.com/watch?v=qlq6DwRCJZU)
+
 
 #Git - Keep Changes of Code
 When we design projects, how to collaborate with people
@@ -29,7 +27,8 @@ Create a new file
 
 #Git Add
 Tell the git what files I want to track. Next time I want to copy to repository. Add the files we want to commit next time.
-* git add `<filename>`
+* `git add <filename>` (只加進我已經完成、要追蹤的檔案)
+* `git add *` (加進所有檔案)
 
 #Git Commit
 * git commit -m "message"
@@ -72,7 +71,6 @@ Before the git commit, you have to git add a file to the staging area and tellin
 #git reflog
 Git tracks of all the different snapshots,the `git relog` command is just the log of different references.
 
-到 32:22
 
 #Error Statements
 
