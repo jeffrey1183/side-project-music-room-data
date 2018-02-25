@@ -1,7 +1,3 @@
-https://www.youtube.com/watch?v=1u2qu-EmIRc
-
-到 49:15
-
 ##Image tag
 * source attribute
 * weight and height attribute
@@ -37,3 +33,13 @@ Collecting information from users.
 </form>
 
 ```
+
+#Document Object Model
+59:40
+
+
+#CSS
+
+https://www.youtube.com/watch?v=1u2qu-EmIRc
+
+到 1:02:50
