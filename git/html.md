@@ -22,6 +22,20 @@
 </table>
 ```
 
+##Table border
+<style>
+    table {
+        border: 2px solid black;
+    }
+    th, td{
+        border: 1px solid black;
+    }
+    
+</style>
+```
+
+
+
 #Form
 Collecting information from users.
 
@@ -39,14 +53,18 @@ Collecting information from users.
 
 
 #CSS
-Start from adding a style attribute.
+
+## Three Ways of Linking CSS
+
+1. Start from adding a style attribute.
 
 ```
 <h1 style="color:blue;text-align:center">Welcome to My Web Page</h1>
 ```
 color attribute 可以用 hex code
 
-除了這種包在裡面的之外，還可以用
+
+2. 除了這種包在裡面的之外，還可以用
 ```
 <style>
     h1 {
@@ -61,8 +79,74 @@ color attribute 可以用 hex code
 
 ![](/assets/html_1.png)
 
-到1:12:05
-##HTML Color Picker
+3. link tag
+separate out into a different file such that have many different HTML files. They can all reference the same CSS file.
+
+```
+<link rel="stylesheet" href="style.css">
+
+```
+
+#div
+A section of my code
+
+```
+<style>
+    div {
+        background-color: teal;
+        width: 100px;
+        height: 400px;
+        margin: 30px;
+        padding: 20px;
+    }
+</style>
+```
+
+#margin & padding 
+Margin is the space around the outside of the border element.
+
+Padding is between the content of the element.
+
+
+#font
+
+```
+<style>
+    div{
+        font-family: Arial, sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+        
+    }
+</style>
+```
+
+#border
+
+案例1
+```
+<style>
+    div{
+        border: 3px solid blue;
+        
+    }
+</style>
+```
+案例2
+```
+<style>
+    div{
+        border: 3px dotted red;
+        
+    }
+</style>
+```
+
+
+到 1:24:27
+
+
+#HTML Color Picker
 
 https://www.youtube.com/watch?v=1u2qu-EmIRc
 
