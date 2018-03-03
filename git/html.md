@@ -25,3 +25,5 @@ Head is where we currently are in the repository. Head points to master. Git is 
 
 這樣就會 master branch 轉到 feature 這個 branch
 
+到 8:35
+https://www.youtube.com/watch?v=XQs5KcUj-Do
