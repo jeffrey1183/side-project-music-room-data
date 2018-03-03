@@ -1,155 +1,27 @@
-##Image tag
-* source attribute
-* weight and height attribute
-* width attribute
+Start a new feature in existing web application.
 
-##Table
-需要實作練習，其實就寫一列一列寫
+#Branching 
+Multiple different directions
 
-```
-<table>
-    <tr> //table row
-        <th>First Name</th> //table header
-        <th>Last Name</th>
-        <th>Years in Office</th>
-    </tr> 
-    <tr> //table row
-        <th>First Name</th> //table header
-        <th>Last Name</th>
-        <th>Years in Office</th>
-    </tr>
+如果有 bug 的時候是在 master 開一個 branch 叫 fix bug，而不是 reset 回來到上一版本修。
 
-</table>
-```
+![](/assets/lecture 1_1.png)
 
-##Table border
-<style>
-    table {
-        border: 2px solid black;
-    }
-    th, td{
-        border: 1px solid black;
-    }
-    
-</style>
-```
+Head is where we currently are in the repository. Head points to master. Git is easy to change where the head is.
 
+#git branch
+輸入 `git branch`這個指令會把所有 branch 列出來。
+如果要增加 branch 就在後面加上名稱，例如
 
+`git branch feature`
 
-#Form
-Collecting information from users.
+在 iTerm2 裡會把 master branch 前面標示星號並且字體為綠色。
 
+![](/assets/lecture 1_2.png)
 
-```
-<form>
-    <input type="text" placehodler="Full Name" name="name">
-    <button>submit</button>
-</form>
+如果要 move to 其他 branch 的指令是
 
-```
+`git checkout feature`
 
-#Document Object Model
-59:40
+這樣就會 master branch 轉到 feature 這個 branch
 
-
-#CSS
-
-## Three Ways of Linking CSS
-
-1. Start from adding a style attribute.
-
-```
-<h1 style="color:blue;text-align:center">Welcome to My Web Page</h1>
-```
-color attribute 可以用 hex code
-
-
-2. 除了這種包在裡面的之外，還可以用
-```
-<style>
-    h1 {
-    color:blue;
-    text-align:center;
-    
-    }
-</style>
-```
-
-這種寫法會套用在所有 h1 header
-
-![](/assets/html_1.png)
-
-3. link tag
-separate out into a different file such that have many different HTML files. They can all reference the same CSS file.
-
-```
-<link rel="stylesheet" href="style.css">
-
-```
-
-#div
-A section of my code
-
-```
-<style>
-    div {
-        background-color: teal;
-        width: 100px;
-        height: 400px;
-        margin: 30px;
-        padding: 20px;
-    }
-</style>
-```
-
-#margin & padding 
-Margin is the space around the outside of the border element.
-
-Padding is between the content of the element.
-
-
-#font
-
-```
-<style>
-    div{
-        font-family: Arial, sans-serif;
-        font-size: 28px;
-        font-weight: bold;
-        
-    }
-</style>
-```
-
-#border
-
-案例1
-```
-<style>
-    div{
-        border: 3px solid blue;
-        
-    }
-</style>
-```
-案例2
-```
-<style>
-    div{
-        border: 3px dotted red;
-        
-    }
-</style>
-```
-
-
-到 1:24:27
-
-
-#HTML Color Picker
-
-https://www.youtube.com/watch?v=1u2qu-EmIRc
-
-
-
-到 1:02:50
