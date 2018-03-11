@@ -47,5 +47,6 @@
 * [Facebook Developers](facebook-developers.md)
   * [Quote Plugin](facebook-developers/quote-plugin.md)
   * [Quickstart: Facebook SDK for JavaScript](facebook-developers/quickstart-facebook-sdk-for-javascript.md)
-* [My Website](my-website.md)
+* [Build My Website](my-website.md)
+  * [Install Jekyll](my-website/install-jekyll.md)
 
