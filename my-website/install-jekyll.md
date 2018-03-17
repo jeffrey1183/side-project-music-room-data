@@ -31,8 +31,23 @@ If you already have a full Ruby development environment with all headers and Rub
 >在建置好 Ruby 的開發環境與安裝好 RubyGems 後，你可以按照下面的步驟建置一個 Jekyll 網站：
 
 ![](/assets/Install Jekyll_1.png)
+* If you enter `gem install jekyll bundler` and pop up the message of "bundler's executable "bundle" conflicts with /usr/local/bin/bundle.Overwrite the executable?" [The conflict means you already have Bundler installed](https://stackoverflow.com/questions/49267951/bundlers-executable-bundle-conflicts-with-usr-local-bin-bundle-overwrite-the#_=_).
 
-在執行 gem install jekyll bundler 時出現的問題：https://stackoverflow.com/questions/49267951/bundlers-executable-bundle-conflicts-with-usr-local-bin-bundle-overwrite-the
+>如果在執行 `gem install jekyll bundler` 時跳出下面這些訊息：
+bundler's executable "bundle" conflicts with /usr/local/bin/bundle.Overwrite the executable? 
+表現你已經安裝過 bundler 了。
+
+After executing those commands, you can browse to http://localhost:4000, here is [more detail](https://jekyllrb.com/docs/quickstart/#about-bundler) about bundle.
+
+>在執行完上面的指令後，你可以輸入 http://localhost:4000
+瀏覽一下頁面。更多關於 bundle 的細節可參考[這裡](https://jekyllrb.com/docs/quickstart/#about-bundler)。
+
+
+
+##Fix the Error of ERROR `/favicon.ico' not found.
+
+
+
 
 
 
