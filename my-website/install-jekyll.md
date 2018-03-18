@@ -42,8 +42,19 @@ After executing those commands, you can browse to http://localhost:4000, here is
 >在執行完上面的指令後，你可以輸入 http://localhost:4000
 瀏覽一下頁面。更多關於 bundle 的細節可參考[這裡](https://jekyllrb.com/docs/quickstart/#about-bundler)。
 
+Every time you want to preview your page. You have to run the command `bundle exec jekyll serve` and open http://localhost:4000` to preview.
+>要預覽頁面時需要先下 `bundle exec jekyll serve` 的指令後再開啟 http://localhost:4000 查看。
 
+#Options for creating a new site with Jekyll
 
+`jekyll new <PATH>` installs a new Jekyll site at the path specified (relative to current directory).
+
+#Help command
+`jekyll help new`
+`jekyll help build`
+`jekyll help serve`
+
+![](/assets/Jekyll_2.png)
 ##Fix the Error of ERROR `/favicon.ico' not found.
 
 
