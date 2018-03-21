@@ -36,5 +36,5 @@ It means add all of the files that I've changed that I've already been tracking 
 #git merge
 Allows two separate branch and combine them together.
 
-到 8:35
+到 17:22
 https://www.youtube.com/watch?v=XQs5KcUj-Do
