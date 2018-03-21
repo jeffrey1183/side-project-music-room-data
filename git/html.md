@@ -19,11 +19,22 @@ Head is where we currently are in the repository. Head points to master. Git is 
 
 ![](/assets/lecture 1_2.png)
 
+#git checkout
+Change we currently are in the repository. We can change one branch to another branch.
+
 如果要 move to 其他 branch 的指令是
 
 `git checkout feature`
 
 這樣就會 master branch 轉到 feature 這個 branch
+
+#git commit -am
+It means add all of the files that I've changed that I've already been tracking and commit them at the same time. Just combines few steps in a one.
+
+#git push --set-upstream
+
+#git merge
+Allows two separate branch and combine them together.
 
 到 8:35
 https://www.youtube.com/watch?v=XQs5KcUj-Do
