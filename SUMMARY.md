@@ -42,8 +42,6 @@
   * [JavaScript](javascript.md)
 * [Others](others.md)
   * [The Wide and Long Data Format](others/the-wide-and-long-data-format.md)
-* [Git](git.md)
-  * [HTML, CSS - Lecture 1 - CS50's Web Programming with Python and JavaScript ](git/html-css-lecture-1-cs50s-web-programming-with-python-and-javascript.md)
 * [Facebook Developers](facebook-developers.md)
   * [Quote Plugin](facebook-developers/quote-plugin.md)
   * [Quickstart: Facebook SDK for JavaScript](facebook-developers/quickstart-facebook-sdk-for-javascript.md)

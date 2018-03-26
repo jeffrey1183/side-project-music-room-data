@@ -56,4 +56,14 @@ who holds the key can encrypt and decrypt messages to anyone else holding the ke
 2. [how to connect using SSH](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)
 3. [some SSH tips and tricks](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
 
+#實作上遇到的問題
+看來是 master 跟 original 都有一個 commit
+
+![](/assets/git_4.png)
+
+[stack overflow](https://stackoverflow.com/questions/2452226/master-branch-and-origin-master-have-diverged-how-to-undiverge-branches) 解法
+最後我是用 `git reset --hard origin/master`
+
+
+
  
