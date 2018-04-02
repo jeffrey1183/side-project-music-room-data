@@ -277,3 +277,16 @@ Allows two separate branch and combine them together.
 到 17:22
 https://www.youtube.com/watch?v=XQs5KcUj-Do
 
+
+#實作上遇到的問題
+看來是 master 跟 original 都有一個 commit
+
+![](/assets/git_4.png)
+
+[stack overflow](https://stackoverflow.com/questions/2452226/master-branch-and-origin-master-have-diverged-how-to-undiverge-branches) 解法
+最後我是用 `git reset --hard origin/master`
+
+
+
+
+
