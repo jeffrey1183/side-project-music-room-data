@@ -9,4 +9,10 @@ name.py 無法運行的原因
 Python 的新舊版本可以同時存在
 也有[版本管理](https://github.com/pyenv/pyenv)
 
-到 9:23
+
+```
+python --version
+```
+python 查看版本的指令不是 python -v
+
+到 16:57
